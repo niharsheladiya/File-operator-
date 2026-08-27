@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=File%20Operator&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Your%20Personal%20Journal%20Manager,%20Right%20From%20The%20Terminal&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=File-Operator&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Your%20Personal%20Journal%20Manager,%20Right%20From%20The%20Terminal&descAlignY=55&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Add+Journal+Entries+in+Seconds;Search+Your+Memories+Instantly;Simple.+Fast.+Fully+in+Python." alt="Typing SVG" />
 
@@ -31,21 +31,22 @@
 
 <div align="center">
 
-### 📌 Live Demo Video
-*(Replace the link/thumbnail below with your uploaded demo video)*
-
-[![Watch the Demo](https://img.shields.io/badge/▶️_WATCH_DEMO_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](REPLACE_WITH_YOUR_VIDEO_LINK)
-
-<br/>
-
 ### 📌 Demo GIF
 *(Replace this placeholder with your own recorded GIF — e.g. using [ScreenToGif](https://www.screentogif.com/) or [Terminalizer](https://github.com/faressoft/terminalizer))*
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="600">
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="500">
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
+
 </div>
 
-> 💡 **Tip:** To add your own demo, drag your `.gif` or `.mp4` file directly into this README on GitHub's web editor — GitHub will auto-generate the hosted link for you, then paste it where the placeholders are above.
+> 💡 **Tip:** To add your own demo, drag your `.gif` file directly into this README on GitHub's web editor — GitHub will auto-generate the hosted link for you, then paste it in place of the placeholders above.
 
 ---
 
@@ -68,7 +69,9 @@
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 </div>
 
@@ -81,6 +84,10 @@
 ```bash
 python --version   # Requires Python 3.8 or higher
 ```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+</div>
 
 ### Installation
 
@@ -135,6 +142,10 @@ File operator/
 - [ ] Add mood/tag tracking per entry
 - [ ] Encrypt journal file for privacy
 - [ ] Build a GUI version
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910671-a6a2a29b-3fb1-4b91-9b5e-b3e4b8f0c5fd.gif" width="350">
+</div>
 
 ---
 
