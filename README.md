@@ -31,8 +31,7 @@
 
 <div align="center">
 
-### 📌 Demo GIF
-*(Replace this placeholder with your own recorded GIF — e.g. using [ScreenToGif](https://www.screentogif.com/) or [Terminalizer](https://github.com/faressoft/terminalizer))*
+https://drive.google.com/file/d/1U5zHjxdFA3mHGFlul1zEmPtJp8fgb1ic/view?usp=drive_link
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=F7B32B&center=true&vCenter=true&width=650&lines=%F0%9F%90%8D+Insert+Your+Legendary+Demo+GIF+Here;This+Could+Be+You%2C+Coding+at+2AM+%E2%98%95;404%3A+Demo+Not+Uploaded+Yet...+But+Soon%21" alt="Demo Placeholder Typing SVG" />
 
