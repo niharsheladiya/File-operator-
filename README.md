@@ -34,19 +34,7 @@
 ### 📌 Demo GIF
 *(Replace this placeholder with your own recorded GIF — e.g. using [ScreenToGif](https://www.screentogif.com/) or [Terminalizer](https://github.com/faressoft/terminalizer))*
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200">
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2f4ecc-e1c6-4c93-a2b0-8bd07a2ba7c3.gif" width="400">
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910671-a6a2a29b-3fb1-4b91-9b5e-b3e4b8f0c5fd.gif" width="400">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=F7B32B&center=true&vCenter=true&width=650&lines=%F0%9F%90%8D+Insert+Your+Legendary+Demo+GIF+Here;This+Could+Be+You%2C+Coding+at+2AM+%E2%98%95;404%3A+Demo+Not+Uploaded+Yet...+But+Soon%21" alt="Demo Placeholder Typing SVG" />
 
 </div>
 
@@ -179,9 +167,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120">
-
 ### **Nihar Sheladiya**
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turns+Coffee+%E2%98%95+Into+Python+Code+%F0%9F%90%8D;Ships+Small+Tools%2C+Fixes+Big+Bugs;Probably+Debugging+Right+Now..." alt="Author Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niharsheladiya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
@@ -189,11 +177,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 *"Building small tools that make everyday life a little more organized."*
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="250">
-<img src="https://user-images.githubusercontent.com/74038190/221857984-42d40cdf-2114-45c4-9cd1-e64f4ca9c9a5.gif" width="250">
 
 </div>
 
