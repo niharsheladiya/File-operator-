@@ -34,15 +34,19 @@
 ### 📌 Demo GIF
 *(Replace this placeholder with your own recorded GIF — e.g. using [ScreenToGif](https://www.screentogif.com/) or [Terminalizer](https://github.com/faressoft/terminalizer))*
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200">
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2f4ecc-e1c6-4c93-a2b0-8bd07a2ba7c3.gif" width="400">
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910671-a6a2a29b-3fb1-4b91-9b5e-b3e4b8f0c5fd.gif" width="400">
 
 </div>
 
@@ -175,7 +179,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120">
 
 ### **Nihar Sheladiya**
 
@@ -185,6 +189,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 *"Building small tools that make everyday life a little more organized."*
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="250">
+<img src="https://user-images.githubusercontent.com/74038190/221857984-42d40cdf-2114-45c4-9cd1-e64f4ca9c9a5.gif" width="250">
 
 </div>
 
